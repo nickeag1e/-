@@ -1,1 +1,1 @@
-This project is my progress in Yandex.Lyceum tasks for teachers.
+This project is my progress in Yandex.Lyceum course for teachers.
