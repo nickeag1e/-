@@ -1,0 +1,1 @@
+print(' '.join(set('0123456789') - set(input())))
